@@ -115,7 +115,7 @@
   <properties>
     <!-- used for filtering the java source with the current version -->
     <accumulo.release.version>${project.version}</accumulo.release.version>
-    <auto-service.version>1.0.1</auto-service.version>
+    <auto-service.version>1.0.2</auto-service.version>
     <!-- bouncycastle version for test dependencies -->
     <bouncycastle.version>1.70</bouncycastle.version>
     <!-- Curator version -->
